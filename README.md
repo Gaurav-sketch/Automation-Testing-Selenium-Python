@@ -13,7 +13,7 @@ Listing some topics :
 - Radio button
 - Dropdown
 - Mouse Actions 
-- Upload and Dwonload 
+- Upload and Download 
 - Reading and writing 
 - Unit Test framework
 - All assertions 
